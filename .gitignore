@@ -1,2 +1,5 @@
 /subprojects/*
 !/subprojects/*.wrap
+.direnv/
+.envrc
+result
